@@ -6,7 +6,7 @@ const App=()=> {
     <Nav />
     <div className="text-center">
       <h1 className="text-2xl font-bold">This is our Heading tag.</h1>
-      <p>This is our subheading tag.</p>
+      <p>I love to Change.</p>
     </div>
     </>
   )
